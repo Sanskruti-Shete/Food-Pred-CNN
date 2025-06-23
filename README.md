@@ -1,1 +1,1 @@
-FoodLens
+FoodLens CNN
